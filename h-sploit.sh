@@ -311,7 +311,7 @@ read simm
 cd $HOME/h-sploit
 bash h-sploit.sh
 else
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
+am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCGE02A45QZNkx-KdHrycLjg
 echo " "
 echo " "
 echo -e "$pink               ＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$pink ＜＜＜＜＜＜＜＜＜＜＜＜$rset"
@@ -339,7 +339,7 @@ read nitrooz
 cd $HOME/h-sploit
 bash h-sploit.sh
 else
-am start -a android.intent.action.VIEW -d https://bit.ly/2Ox8UIc
+am start -a android.intent.action.VIEW -d https://www.instagram.com/2k20_hacking_boy/
 echo " "
 echo " "
 echo -e "$pink               ＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$pink ＜＜＜＜＜＜＜＜＜＜＜＜$rset"
@@ -367,7 +367,7 @@ read simm
 cd $HOME/h-sploit
 bash h-sploit.sh 
 else
-am start -a android.intent.action.VIEW -d https://bit.ly/nhfollowus
+am start -a android.intent.action.VIEW -d https://www.instagram.com/2k20_hacking_boy/
 echo " "
 echo " "
 echo -e "$pink               ＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$pink ＜＜＜＜＜＜＜＜＜＜＜＜$rset"
